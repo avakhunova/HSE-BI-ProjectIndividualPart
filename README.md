@@ -28,7 +28,7 @@
 
 ## Код
 
-** В терминале для выравнивания был использован следующий код :** blastp -query *protein*.fasta -db /mnt/storage/project_2023/proteomes/*proteome*.faa -out *proteome*.blast -outfmt 7
+В терминале для выравнивания был использован следующий код : blastp -query *protein*.fasta -db /mnt/storage/project_2023/proteomes/*proteome*.faa -out *proteome*.blast -outfmt 7
 
 
 ## Вывод 
